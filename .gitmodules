@@ -7,3 +7,6 @@
 [submodule "themes/hero"]
 	path = themes/hero
 	url = https://github.com/dave-007/hugo-hero-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/dave-007/alongside-hugo-gh-pages-public-a.git
