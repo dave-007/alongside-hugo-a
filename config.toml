@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://dev.alongside.cc/"
 languageCode = "en-us"
 title = "AlongSide.cc"
-theme = "photophobia"
+theme = "hero"
